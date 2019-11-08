@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+		 * (Santiago Garcia II)
+		 * (Force1.cs)
+		 * (Assignment 9)
+		 * (Adds force to the player when he reaches the pits )
+	*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
